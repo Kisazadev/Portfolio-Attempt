@@ -1,3 +1,30 @@
-.row{
-    background-color: #ccc;
+.row#about{
+    background-color: #67E5E5;
+    font-family:helvetica serif;
+}
+#about p{
+    text-decoration-color: #67E5E5;
+}
+#skills{
+    font-family:helvetica serif;
+    background-color: #3BDDDD;
+}
+#skills h3{
+    text-align: center;
+}
+#skills col{
+    padding:10px 10px 10px 10px;
+}
+#music h3{
+    text-align:center;
+}
+#music p{
+    text-align: center;
+
+}
+#inspire-title h3{
+    text-align: center;
+}
+#inspire-title p{
+    text-align: center;
 }
