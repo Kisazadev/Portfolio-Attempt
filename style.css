@@ -1,30 +1,81 @@
-.row#about{
-    background-color: #67E5E5;
-    font-family:helvetica serif;
+body p{
+    font-size:16px;
+    line-height: 1.5;
+}
+
+/* Small About */
+#about {
+    background-color: #FCFFF5;
+    color: #193441;
+}
+#about h1{
+    font-family:georgia serif;
+}
+#about h3{
+    font-family:georgia serif;
 }
 #about p{
-    text-decoration-color: #67E5E5;
+    font-family:georgia sans-serif;
 }
+
+
+/* Front-End Skills */
 #skills{
-    font-family:helvetica serif;
-    background-color: #3BDDDD;
+    background-color: #D1DBBD;
+    color:#193441;
 }
 #skills h3{
     text-align: center;
+    font-family:Georgia serif;
 }
-#skills col{
-    padding:10px 10px 10px 10px;
+#skills h4{
+    font-family:Georgia serif;
+    text-align: center;
+}
+#skills ul{
+    padding:20px 0px 10px 0px;
+    font-family:Georgia sans-serif;
+    list-style-type: none;
+}
+#skills ul li{
+    font-family:Georgia sans-serif;
+    text-decoration: none;
+    text-align: center;
+}
+
+/* Music Education perks  */
+#music{
+    background-color: #91AA9D;
 }
 #music h3{
     text-align:center;
+    font-family:Georgia serif;
 }
 #music p{
     text-align: center;
+    font-family:Georgia sans-serif;
+}
+/* Music Education perks  */
 
+
+/* Inspiration  */
+#inspire-title{
+    background-color: #3E606F;
+    color:#FCFFF5;
+}
+#inspire-title h2{
+    text-align: center;
+    font-family:Georgia serif;
 }
 #inspire-title h3{
     text-align: center;
+    font-family:Georgia serif;
 }
 #inspire-title p{
     text-align: center;
+    font-family:Georgia sans-serif;
 }
+#inspire-title img{
+    float:left;
+}
+/* Inspiration  */
